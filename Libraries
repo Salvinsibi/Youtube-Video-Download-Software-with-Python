@@ -1,0 +1,8 @@
+For Using This Software U need to download
+a Python library in your python version.
+1.open your Terminal
+     >>>cmd<<<
+pip install Pytube
+if output any errors try update your pip version
+      >>Cmd<<
+pip install --upgrade pip
